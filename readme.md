@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-The main goal of this project is to **master Flexbox** for building flexible and responsive layouts. The project showcases practical use of Flexbox along with CSS Grid and modern CSS techniques to create a clean, user-friendly, and visually appealing landing page.
+The main goal of this project is to **master Flexbox** for building flexible and responsive layouts. The project showcases practical use of Flexbox along with and modern CSS techniques to create a clean, user-friendly, and visually appealing landing page.
 
 ---
 
